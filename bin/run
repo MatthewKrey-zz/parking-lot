@@ -1,2 +1,4 @@
 #!/usr/bin/env ruby
 require_relative '../config/environment'
+
+# Test drive parking a car and charging for parking however you wish.
